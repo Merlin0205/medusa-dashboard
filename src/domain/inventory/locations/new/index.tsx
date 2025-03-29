@@ -4,10 +4,10 @@ import {
   StockLocationAddressDTO,
   StockLocationAddressInput,
 } from "@medusajs/medusa"
-import {
-  useAdminAddLocationToSalesChannel,
+//import {
+  //useAdminAddLocationToSalesChannel,
  // useAdminCreateStockLocation,
-} from "medusa-react"
+//} from "medusa-react"
 import { useForm } from "react-hook-form"
 import Button from "../../../../components/fundamentals/button"
 import CrossIcon from "../../../../components/fundamentals/icons/cross-icon"
